@@ -1,3 +1,4 @@
+# Get user input and convert it to an integer
 num = int(input("Please enter a 3-digit number: "))  # Get user input and convert it to an integer
 
 # Extract the last digit (ones place)
