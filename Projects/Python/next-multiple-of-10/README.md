@@ -31,3 +31,6 @@ Run the program using:
 ```bash
 python next_multiple_of_10.py
 ```
+
+## License
+This project is free to use and modify.

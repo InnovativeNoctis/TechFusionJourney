@@ -12,3 +12,6 @@ This simple Python program takes a 3-digit number as input, reverses the digits,
 
 1. Clone this repository to your local machine.
 2. Run the program using Python 3
+
+## License
+This project is free to use and modify.

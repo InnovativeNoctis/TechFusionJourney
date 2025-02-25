@@ -43,5 +43,4 @@ Your number after 6 attempts: 71
 ```
 
 ## License
-
-This project is open-source and free to use for learning and development purposes.
+This project is free to use and modify.

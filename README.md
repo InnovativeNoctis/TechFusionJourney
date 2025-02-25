@@ -17,7 +17,7 @@ This repository is my **learning journal**, where I document my progress in:
 ### Goals  
 - Build real-world AI & Robotics projects  
 - Master programming fundamentals  
-- Document progress for university and immigration purposes  
+- Document progress for university and   
 - Contribute to open-source  
 
 ### Connect with Me  

@@ -33,3 +33,6 @@ Run the program using:
 ```bash
 python compare_numbers.py
 ```
+
+## License
+This project is free to use and modify.

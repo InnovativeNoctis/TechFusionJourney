@@ -39,5 +39,5 @@ Age_Classification/
 - Add an option to process multiple ages from a file  
 - Create a graphical user interface (GUI)  
 
-## License  
-This project is open-source and free to use for learning and development purposes.  
+## License
+This project is free to use and modify.
