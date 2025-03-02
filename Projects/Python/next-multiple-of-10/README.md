@@ -1,4 +1,4 @@
-## **Next Multiple of 10**  
+## Next Multiple of 10 
 
 ### Description  
 This Python program takes a number as input and prints the next multiple of 10 that is greater than the given number.  

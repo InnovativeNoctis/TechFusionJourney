@@ -1,4 +1,4 @@
-## **Compare Numbers**
+# Compare Numbers
 
 ### **Description**  
 This Python program compares two numbers input by the user and prints the greater of the two. If both numbers are equal, it will print a message indicating that.

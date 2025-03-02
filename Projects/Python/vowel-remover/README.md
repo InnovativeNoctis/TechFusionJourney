@@ -1,4 +1,4 @@
-# **vowel_remover.py**
+# vowel_remover
 
 ## **Description**
 `vowel_remover.py` is a Python script that processes an input string by:
