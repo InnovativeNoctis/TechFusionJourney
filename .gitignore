@@ -1,0 +1,23 @@
+# Rust build artifacts
+**/target/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Rust compiled binaries and debug symbols
+*.exe
+*.pdb

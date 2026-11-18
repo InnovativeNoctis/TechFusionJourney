@@ -1,0 +1,9 @@
+# Automatically detect text files
+* text=auto
+
+# Rust files
+*.rs text eol=lf
+
+# Cargo files
+Cargo.toml text eol=lf
+Cargo.lock text eol=lf
